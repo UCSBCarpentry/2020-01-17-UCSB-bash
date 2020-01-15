@@ -127,6 +127,9 @@ they explain how she can use a command shell to run the `goostats` program,
 using loops to automate the repetitive steps of entering file names,
 so that her computer can work while she writes her paper.
 
+I have four refrigerators with 2 different RH / temp monitors installed:
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjonjab%2Fposts%2F10151729246408048&width=500" width="500" height="669" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 As a bonus,
 once she has put a processing pipeline together,
 she will be able to use it again whenever she collects more data.
